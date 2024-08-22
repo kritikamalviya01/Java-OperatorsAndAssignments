@@ -11,3 +11,7 @@
 3. Only operator that is overloaded in java is "+"
         Eg: 10+20 = 30
         Eg: "xy" + "ab" = xyab
+4. Comparison Operator : < <= > >= == !=
+5. Bitwise Operator : & -> if both the value is true
+                      | -> if any of the value is true
+                      ^ -> if both the values are different
